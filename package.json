@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/annnacaesar/filmoteka-project.git"
+    "url": "git+https://github.com/bunooleg/filmoteka-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/annnacaesar/filmoteka-project/issues"
+    "url": "https://github.com/bunooleg/filmoteka-project/issues"
   },
   "dependencies": {
     "basiclightbox": "^5.0.4",
